@@ -15,4 +15,10 @@ public class Employee {
     void m4(){
         System.out.println("This is m4 method");
     }
+    void getEmployeeName(){
+        System.out.println("Jhon");
+    }
+    void getEmployeeId(){
+        System.out.println(10);
+    }
 }
